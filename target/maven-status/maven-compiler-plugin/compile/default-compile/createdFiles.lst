@@ -1,0 +1,6 @@
+com\automation\propertyreader\PropertyReader.class
+com\automation\pages\ProductPage.class
+com\automation\pages\SignInPage.class
+com\automation\pages\CreateAccountPage.class
+com\automation\pages\WomenCategoryPage.class
+com\automation\App.class
